@@ -1,4 +1,4 @@
-#Tic Tac Toe React App
+# Tic Tac Toe React App
 
 Obiously, the game was created following the React tutorial. HOWEVER, more functionalities were added by your truly so it is a little more advanced than the regular example.
 
